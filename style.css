@@ -1,0 +1,48 @@
+h1{
+    background-color: #F7DBDA;
+    color:white;
+}
+
+.row{   
+    display:flex;
+    justify-content: space-around;
+    background-color:#FFC9D4;
+    color:white;
+    font-size:20px;
+}
+
+.rowcontact{
+  display:flex;
+    justify-content: space-around;
+    background-color:#F7DBDA;
+    color:black;
+}
+.headshot{
+    width:20%;
+   border-radius:50%;
+   border:5px dotted white;
+}
+
+.mid{
+    background-color: #F7DBDA;
+    color:white;
+  align-items:center;  
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Playfair Display', serif;
+
+}
+.aboutme{
+    border:3px solid black; 
+    
+}
+ img{
+     width:100%;
+ }
+a:visited{
+    color:white;
+}
+a:link{
+    color:white;
+}
